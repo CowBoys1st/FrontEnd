@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "811c",
+      "name": "Budi",
+      "email": "budidoremi@gmail.com",
+      "age": 150
+    },
+    {
+      "id": "bf15",
+      "name": "Imam",
+      "email": "imamdoremi@gmail.com",
+      "age": 155
+    },
+    {
+      "id": "1af2",
+      "name": "Anjay Firman",
+      "email": "firmanyapit@gmail.com",
+      "age": 100
+    },
+    {
+      "id": "dade",
+      "name": "Jenal Abidin",
+      "email": "jenaluhuy@gmail.com",
+      "age": 200
+    }
+  ]
+}
